@@ -94,13 +94,3 @@ tail(tidydata[,1:6], n = 10)
 
 #saving tidy dataset to text file
 write.table(tidydata, "tidy_data.txt", row.name = FALSE)
-
-
-
-
-
-
-
-
-
-
